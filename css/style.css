@@ -1,0 +1,15 @@
+header {
+  border-color: forestgreen;
+}
+
+h1 {
+  color: indianred;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
